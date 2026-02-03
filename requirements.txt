@@ -1,8 +1,9 @@
-ansible-core==2.17.10
+ansible-core>=2.14.0,<2.19.0
 ansible-lint
-iac-validate==0.2.6
-iac-test==0.2.6
+jmespath
+nac-yaml==1.0.0
+nac-validate==1.0.0
 macaddress
 netaddr
-packaging==24.1
+packaging
 requests
